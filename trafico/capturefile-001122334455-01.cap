@@ -1,0 +1,13 @@
+Handshake Capturado en "MiRedWiFi" el 24 de septiembre de 2023
+
+BSSID: 00:11:22:33:44:55 (Dirección MAC del Punto de Acceso)
+Cliente: AA:BB:CC:DD:EE:FF (Dirección MAC del Cliente)
+
+Paquetes Capturados:
+1. Solicitud de Asociación (Cliente a Punto de Acceso)
+2. Respuesta de Asociación (Punto de Acceso a Cliente)
+3. Solicitud de Autenticación (Cliente a Punto de Acceso)
+4. Respuesta de Autenticación (Punto de Acceso a Cliente)
+5. Captura del Handshake de 4-Way (Cliente y Punto de Acceso)
+
+Estado del Handshake: Completo
